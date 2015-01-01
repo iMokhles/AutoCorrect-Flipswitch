@@ -1,0 +1,10 @@
+Package: com.imokhles.autocorrect
+Name: AutoCorrect Flipswitch
+Description: flipswitch to turns On/Off AutoCorrect
+Version: 1.0
+Priority: optional
+Section: Addons (Flipswitch)
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Maintainer: iMokhles
+Author: iMokhles

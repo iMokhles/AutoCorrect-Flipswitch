@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>AutoCorrect</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.imokhles.autocorrect</string>
+	<key>CFBundleDisplayName</key>
+	<string>AutoCorrect</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>MinimumOSVersion</key>
+	<string>3.0</string>
+	<key>width</key>
+	<string>60</string>
+	<key>height</key>
+	<string>60</string>
+	<key>NSPrincipalClass</key>
+	<string>AutoCorrectSwitch</string>
+	<key>alternate-action-url</key>
+	<string>prefs:</string>
+	<key>layers</key>
+	<array>
+		<string>glyph</string>
+		<string>#2f2761</string>
+	</array>
+</dict>
+</plist>
